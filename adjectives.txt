@@ -1,0 +1,10 @@
+black
+iron
+green
+blue
+black
+red
+purple
+fantastic
+human
+invisible
